@@ -1,0 +1,9 @@
+Django==2.1.7
+django-cors-headers==2.5.2
+django-geoposition==0.3.1
+django-location-field==2.1.0
+django-unixdatetimefield==1.0.3
+django-unixtimestampfield==0.3.9
+djangorestframework==3.9.2
+pytz==2018.9
+six==1.12.0
